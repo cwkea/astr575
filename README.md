@@ -1,0 +1,1 @@
+Repository for ASTR 575: Exoplanets final project. Simulations were run using ISCA (https://execlim.github.io/IscaWebsite/about.html) on YCRC's Grace cluster. See here for ISCA instructions for Grace: https://docs.ycrc.yale.edu/clusters-at-yale/guides/isca/
